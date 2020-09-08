@@ -1,0 +1,13 @@
+E:\BT C#\TinhBMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.exe
+E:\BT C#\TinhBMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.deps.json
+E:\BT C#\TinhBMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.runtimeconfig.json
+E:\BT C#\TinhBMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.runtimeconfig.dev.json
+E:\BT C#\TinhBMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.dll
+E:\BT C#\TinhBMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.pdb
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csprojAssemblyReference.cache
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.AssemblyInfoInputs.cache
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.AssemblyInfo.cs
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csproj.CoreCompileInputs.cache
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.dll
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.pdb
+E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.genruntimeconfig.cache
