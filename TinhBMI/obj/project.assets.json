@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BT C#\\TinhBMI\\TinhBMI\\TinhBMI.csproj",
+      "projectUniqueName": "E:\\C#\\Tinh-BMI\\TinhBMI\\TinhBMI.csproj",
       "projectName": "TinhBMI",
-      "projectPath": "E:\\BT C#\\TinhBMI\\TinhBMI\\TinhBMI.csproj",
+      "projectPath": "E:\\C#\\Tinh-BMI\\TinhBMI\\TinhBMI.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\BT C#\\TinhBMI\\TinhBMI\\obj\\",
+      "outputPath": "E:\\C#\\Tinh-BMI\\TinhBMI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csproj.CoreCompileInput
 E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.dll
 E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.pdb
 E:\BT C#\TinhBMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.genruntimeconfig.cache
+E:\C#\Tinh-BMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.exe
+E:\C#\Tinh-BMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.deps.json
+E:\C#\Tinh-BMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.runtimeconfig.json
+E:\C#\Tinh-BMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.runtimeconfig.dev.json
+E:\C#\Tinh-BMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.dll
+E:\C#\Tinh-BMI\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.pdb
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csprojAssemblyReference.cache
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.AssemblyInfoInputs.cache
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.AssemblyInfo.cs
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csproj.CoreCompileInputs.cache
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.dll
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.pdb
+E:\C#\Tinh-BMI\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.genruntimeconfig.cache
